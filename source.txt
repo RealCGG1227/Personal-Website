@@ -1,0 +1,34 @@
+<section>
+    <h1 style="color: cadetblue; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Cyril</h1>
+    <p style="margin-bottom: 30px;">"There's no perfect on anything, and theres no such same thing. Everything is different"</p>
+    
+    <h2 style="color: skyblue;">🫐About Me🫐</h1> 
+      <blockquote style="margin-bottom: 50px;">
+      A 2nd Year IT Student From NU-FV that knowledgeable 
+      enough on Hardware and not much on Software and loves 
+      apple devices, also who's behind a fictional charater 
+      named Wolfy Blue, Wolfy blue is an Anthromorphic animal 
+      also called as Furry 
+     </blockquote>
+    </section>
+
+  <section>
+    <h2 style="color: skyblue;">🫐Personal Information🫐</h2>
+    <ul>
+      <li><strong style="color: aqua;">Age:</strong> 20</li>
+      <li><strong style="color: aqua;">Civil Status:</strong> Single</li>
+      <li><strong style="color: aqua;">Nickname:</strong> Cy</li>
+      <li><strong style="color: aqua;">Gender:</strong> Male</li>
+      <li style="margin-bottom: 50px;"></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 style="color: skyblue;">🫐Skills & Abilities🫐</h2>
+    <ul>
+      <li>Troubleshooting on Devices</li>
+      <li>Gaming on PC</li>
+      <li>Driving [car only]</li>
+       <li style="margin-bottom: 50px;"></li>
+    </ul>
+  </section>
